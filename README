@@ -1,0 +1,3 @@
+This program build a virtual three-dimensional scene and generate realistic images with ray tracing algorithm.
+
+It is a Qt C++ project, build and run it in Qt5.6.0 and you will get the image.
